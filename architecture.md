@@ -34,7 +34,7 @@
 
 booking-events
      |
-     ├ Email Service
-     ├ SMS Service
-     ├ Invoice Service
-     └ Analytics Service
+     ├> Email Service
+     ├> SMS Service
+     ├> Invoice Service
+     └> Analytics Service
